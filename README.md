@@ -3,3 +3,4 @@
 Install the following dependencies:
 
 ### `npm i react-speech-recognition`
+### `npm install --save @speechly/speech-recognition-polyfill`
